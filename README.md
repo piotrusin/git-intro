@@ -1,4 +1,4 @@
-# git-intro
+# Wstęp do gita
 
 Po wykonaniu danego ćwiczenia poprzedź je znakami (*).
 Przykładowo ćwiczenie przed wykonaniem wyglądające następująco:
@@ -18,3 +18,10 @@ N. (*) Ćwiczenie do wykonania.
 6. dodaj informację o numerach albumów członków zespołu w dowolny miejscu tego dokumentu (wraz z informację, że są to numery albumów członków zespołu) (-)
 7. dodaj słowa `Ćwiczenia do wykonania` przed listą ćwiczeń.
 8. zmień nagłówek z `git-intro` na `Wstęp do gita`. (-)
+
+Autorzy:
+Karol
+Kamil
+Piotr
+Sławomir
+Najlepszy team!
