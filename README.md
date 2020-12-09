@@ -18,3 +18,10 @@ N. (*) Ćwiczenie do wykonania.
 5. dodaj informację o numerach albumów członków zespołu w dowolny miejscu tego dokumentu (wraz z informację, że są to numery albumów członków zespołu) (-)
 6. dodaj słowa `Ćwiczenia do wykonania` przed listą ćwiczeń.
 7. zmień nagłówek z `git-intro` na `Wstęp do gita`. (-)
+
+Autorzy:
+Karol
+Kamil
+Piotr
+Sławomir
+Najlepszy team!
